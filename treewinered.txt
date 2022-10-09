@@ -1,0 +1,520 @@
+Training size: 400, ε: 0.05, auc score: 21.00
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 0.10, auc score: 24.56
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 0.20, auc score: 34.88
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 0.30, auc score: 39.44
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 0.50, auc score: 45.06
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 1.00, auc score: 48.88
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 2.00, auc score: 48.31
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 3.00, auc score: 50.97
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 4.00, auc score: 49.97
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 400, ε: 8.00, auc score: 50.03
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 0.05, auc score: 27.19
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 0.10, auc score: 34.75
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 0.20, auc score: 43.41
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 0.30, auc score: 47.12
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 0.50, auc score: 47.88
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 1.00, auc score: 50.19
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 2.00, auc score: 52.94
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 3.00, auc score: 51.62
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 4.00, auc score: 52.91
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 800, ε: 8.00, auc score: 52.97
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 0.05, auc score: 33.56
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 0.10, auc score: 38.22
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 0.20, auc score: 45.53
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 0.30, auc score: 49.44
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 0.50, auc score: 51.03
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 1.00, auc score: 52.91
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 2.00, auc score: 52.38
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 3.00, auc score: 51.81
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 4.00, auc score: 53.12
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1000, ε: 8.00, auc score: 53.28
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 0.05, auc score: 33.66
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 0.10, auc score: 40.44
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 0.20, auc score: 45.88
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 0.30, auc score: 49.25
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 0.50, auc score: 49.28
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 1.00, auc score: 53.25
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 2.00, auc score: 51.97
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 3.00, auc score: 53.59
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 4.00, auc score: 53.78
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
+Training size: 1200, ε: 8.00, auc score: 52.56
+              precision    recall  f1-score   support
+
+           3       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00        11
+           5       0.40      0.06      0.10       135
+           6       0.45      0.96      0.62       142
+           7       0.00      0.00      0.00        27
+           8       0.00      0.00      0.00         3
+
+    accuracy                           0.45       320
+   macro avg       0.14      0.17      0.12       320
+weighted avg       0.37      0.45      0.32       320
